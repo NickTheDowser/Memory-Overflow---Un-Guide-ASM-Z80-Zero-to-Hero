@@ -20,7 +20,7 @@ Le présent guide ne prétend pas faire de vous un expert incontestable de l'ass
 ### Pourquoi cet ouvrage ?
 En travaillant sur une démo pour l'ami RaHoW (body!), je me suis rendu compte, en faisant des recherches, que le savoir de programmer en assembleur sur le Z80 est un savoir qui se perd. Ce qui est logique, lorsqu'on y pense.
 
-Je ne veux surtout pas dénigrer le travail d'archivage et de partage des savoirs entrepris par les membres de la communauté, mais le savoir est éparpillé ça et là. On trouve des bribes, des Wiki, mais qui partent très souvent du principe qu'on sait déjà de quoi on parle; et qui donc n'entrent que très rarement dans le vif du sujet, avec du language technique à vous scier les pattes ! (Souvent on y comprend rien, mais c'est fascinant).
+Je ne veux surtout pas dénigrer le travail d'archivage et de partage des savoirs entrepris par les membres de la communauté, mais le savoir est éparpillé ça et là. On trouve des bribes, des Wiki, de vraies Bibles écrites par d'illustres cadors, mais qui partent très souvent du principe qu'on sait déjà de quoi on parle; et qui donc n'entrent que très rarement dans le vif du sujet, avec du language technique à vous scier les pattes ! (Souvent on y comprend rien, mais c'est fascinant).
 
 Dans ce guide, on va donc partir du principe que vous ne savez rien, que vous êtes une page blanche. Ce guide ne s'adresse donc pas aux vétérans, mais vraiment aux débutants. D'au moins 5 ans, de préférence. Tu veux du gâteau mon poussin ?
 
