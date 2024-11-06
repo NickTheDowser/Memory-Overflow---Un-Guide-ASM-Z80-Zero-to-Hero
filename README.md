@@ -8,6 +8,10 @@
 </pre>
 
 # Memory Overflow - Un Guide ASM Z80 Zero to Hero
+
+## Table des matières
+_**TODO**_
+
 ## 1.0 Introduction
 Memory Overflow - Un Guide ASM Z80 Zero to Hero - est un guide créé de manière collaborative avec le groupe Praline, de la scène demo-making Amstrad CPC, dont le but est de suivre l'apprentissage de l'assembleur pour le processeur Zilog Z80 de Zero to Hero.
 
@@ -23,6 +27,3 @@ En travaillant sur une démo pour l'ami RaHoW (body!), je me suis rendu compte, 
 Je ne veux surtout pas dénigrer le travail d'archivage et de partage des savoirs entrepris par les membres de la communauté, mais le savoir est éparpillé ça et là. On trouve des bribes, des Wiki, de vraies Bibles écrites par d'illustres cadors, mais qui partent très souvent du principe qu'on sait déjà de quoi on parle; et qui donc n'entrent que très rarement dans le vif du sujet, avec du language technique à vous scier les pattes ! (Souvent on y comprend rien, mais c'est fascinant).
 
 Dans ce guide, on va donc partir du principe que vous ne savez rien, que vous êtes une page blanche. Ce guide ne s'adresse donc pas aux vétérans, mais vraiment aux débutants. D'au moins 5 ans, de préférence. Tu veux du gâteau mon poussin ?
-
-## 2 Table des matières
-_**TODO**_
