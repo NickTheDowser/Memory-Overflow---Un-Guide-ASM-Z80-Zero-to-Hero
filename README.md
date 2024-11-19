@@ -46,5 +46,8 @@ Erreurs et débogage : RASM te donne aussi des retours sur ton code. Si tu as fa
 
 ### X.2 Pourquoi c'est intéressant ?
 
-Apprentissage : Si tu es passionné par la programmation ou le développement de jeux vidéo, comprendre comment fonctionne un assembleur comme RASM peut te donner une meilleure compréhension de ce qui se passe "sous le capot" de l'ordinateur. 
-Créativité : Avec RASM, tu peux créer tes propres programmes, jeux, ou même des démos sur des systèmes qui utilisent le Z80, comme certaines vieilles consoles ou ordinateurs (comme le ZX Spectrum ou certaines machines d'arcade).
+RASM est intéressant à plus d'un titre. En plus d'être un outil d'assembleur, c'est également une vraie boite à outils avec tout ce dont on peux possiblement avoir besoin (gloire à Roudoudou, son travail est remarquable !!!).
+
+**Apprentissage :** Si tu es passionné par la programmation ou le développement de jeux vidéo, comprendre comment fonctionne un assembleur comme RASM peut te donner une meilleure compréhension de ce qui se passe "sous le capot" de l'ordinateur. 
+
+**Créativité :** Avec RASM, tu peux créer tes propres programmes, jeux, ou même des démos sur des systèmes qui utilisent le Z80, comme certaines vieilles consoles ou ordinateurs (comme le ZX Spectrum ou certaines machines d'arcade).
