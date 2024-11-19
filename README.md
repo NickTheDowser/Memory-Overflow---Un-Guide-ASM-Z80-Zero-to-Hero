@@ -30,7 +30,7 @@ Dans ce guide, on va donc partir du principe que vous ne savez rien, que vous ê
 
 ## X.0 RASM, c'est quoi cette bête ?
 
-RASM est un assembleur pour le processeur Z80, et en gros, c'est un outil qui te permet d'écrire des programmes dans un langage que ce processeur peut comprendre. Voici comment ça fonctionne et pourquoi c'est utile :
+Créé par le très talentueux et prolifique Édouard Berger, alias Roudoudou ([Site web de Roudoudou](https://roudoudou.com)) RASM est un assembleur pour le processeur Z80, et en gros, c'est un outil qui te permet d'écrire des programmes dans un langage que ce processeur peut comprendre. Voici comment ça fonctionne et pourquoi c'est utile :
 
 ### X.1 Qu'est-ce que l'assembleur ?
 
