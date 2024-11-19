@@ -19,7 +19,7 @@ Nous allons suivre les pas de Nicolas DESENY [bio sur le site de l'ORCID](https:
 
 Le guide ne contient pas de documentation technique, mais quand nécéssaire, des liens URL vers des sites externes seront disponibles. Des liens Wayback Machine seront également, quand possible, mis en place pour éviter la perte de ces pages et assurer la pérénité de ce guide.
 
-Le présent guide ne prétend pas faire de toi (on vas se tutoyer hein) un expert incontestable de l'assembleur pour Zilog Z80, il s'agit surtout d'une aide pour les débutants qui voudraient se lancer. Ce guide demande néanmoins un minimum de bagage et vocabulaire technique pour être compris. tu es averti !
+Le présent guide ne prétend pas faire de toi (on va se tutoyer hein) un expert incontestable de l'assembleur pour Zilog Z80, il s'agit surtout d'une aide pour les débutants qui voudraient se lancer. Ce guide demande néanmoins un minimum de bagage et vocabulaire technique pour être compris. tu es averti !
 
 ### 1.1 Pourquoi cet ouvrage ?
 En travaillant sur une démo pour l'ami RaHoW (body!), je me suis rendu compte, en faisant des recherches, que le savoir de programmer en assembleur sur le Z80 est un savoir qui se perd. Ce qui est logique, lorsqu'on y pense.
