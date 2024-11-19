@@ -38,11 +38,13 @@ L'assembleur est un type de programme qui traduit le code écrit par les humains
 
 Le langage machine est composé de 0 et de 1, ce qui est super compliqué à écrire à la main. L'assembleur rend tout ça plus accessible. RASM en particulier
 
-Syntaxe simple : RASM te permet d'écrire des instructions en utilisant une syntaxe plus compréhensible. Par exemple, au lieu d'écrire des codes hexadécimaux, tu peux écrire des mots comme MOV, ADD, etc. Cela rend la programmation beaucoup plus intuitive.
+***Bulletpoints :***
 
-Assemblage : Quand tu écris ton code dans RASM, tu le "compiles" ou "assembles". Cela signifie que RASM prend toutes les instructions que tu as écrites et les transforme en un fichier exécutable que le Z80 peut comprendre. C'est comme si tu écrivais un script pour une pièce de théâtre, et que RASM s'occupait de le mettre en scène.
+**Syntaxe simple :** RASM te permet d'écrire des instructions en utilisant une syntaxe plus compréhensible. Par exemple, au lieu d'écrire des codes hexadécimaux, tu peux écrire des mots comme MOV, ADD, etc. Cela rend la programmation beaucoup plus intuitive.
 
-Erreurs et débogage : RASM te donne aussi des retours sur ton code. Si tu as fait une erreur, il te le signalera, ce qui est super utile pour apprendre et améliorer tes compétences en programmation.
+**Assemblage :** Quand tu écris ton code dans RASM, tu le "compiles" ou "assembles". Cela signifie que RASM prend toutes les instructions que tu as écrites et les transforme en un fichier exécutable que le Z80 peut comprendre. C'est comme si tu écrivais un script pour une pièce de théâtre, et que RASM s'occupait de le mettre en scène.
+
+**Erreurs et débogage :** RASM te donne aussi des retours sur ton code. Si tu as fait une erreur, il te le signalera, ce qui est super utile pour apprendre et améliorer tes compétences en programmation.
 
 ### X.2 Pourquoi c'est intéressant ?
 
