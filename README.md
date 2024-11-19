@@ -40,16 +40,15 @@ Le langage machine est composé de 0 et de 1, ce qui est super compliqué à éc
 
 ***Bulletpoints :***
 
-**Syntaxe simple :** RASM te permet d'écrire des instructions en utilisant une syntaxe plus compréhensible. Par exemple, au lieu d'écrire des codes hexadécimaux, tu peux écrire des mots comme MOV, ADD, etc. Cela rend la programmation beaucoup plus intuitive.
-
-**Assemblage :** Quand tu écris ton code dans RASM, tu le "compiles" ou "assembles". Cela signifie que RASM prend toutes les instructions que tu as écrites et les transforme en un fichier exécutable que le Z80 peut comprendre. C'est comme si tu écrivais un script pour une pièce de théâtre, et que RASM s'occupait de le mettre en scène.
-
-**Erreurs et débogage :** RASM te donne aussi des retours sur ton code. Si tu as fait une erreur, il te le signalera, ce qui est super utile pour apprendre et améliorer tes compétences en programmation.
+- **Syntaxe simple :** RASM te permet d'écrire des instructions en utilisant une syntaxe plus compréhensible. Par exemple, au lieu d'écrire des codes hexadécimaux, tu peux écrire des mots comme MOV, ADD, etc. Cela rend la programmation beaucoup plus intuitive.
+- **Assemblage :** Quand tu écris ton code dans RASM, tu le "compiles" ou "assembles". Cela signifie que RASM prend toutes les instructions que tu as écrites et les transforme en un fichier exécutable que le Z80 peut comprendre. C'est comme si tu écrivais un script pour une pièce de théâtre, et que RASM s'occupait de le mettre en scène.
+- **Erreurs et débogage :** RASM te donne aussi des retours sur ton code. Si tu as fait une erreur, il te le signalera, ce qui est super utile pour apprendre et améliorer tes compétences en programmation.
 
 ### X.2 Pourquoi c'est intéressant ?
 
 RASM est intéressant à plus d'un titre. En plus d'être un outil d'assembleur, c'est également une vraie boite à outils avec tout ce dont on peux possiblement avoir besoin (gloire à Roudoudou, son travail est remarquable !!!).
 
-**Apprentissage :** Si tu es passionné par la programmation ou le développement de jeux vidéo, comprendre comment fonctionne un assembleur comme RASM peut te donner une meilleure compréhension de ce qui se passe "sous le capot" de l'ordinateur. 
+***Bulletpoints :***
 
-**Créativité :** Avec RASM, tu peux créer tes propres programmes, jeux, ou même des démos sur des systèmes qui utilisent le Z80, comme certaines vieilles consoles ou ordinateurs (comme le ZX Spectrum ou certaines machines d'arcade).
+- **Apprentissage :** Si tu es passionné par la programmation ou le développement de jeux vidéo, comprendre comment fonctionne un assembleur comme RASM peut te donner une meilleure compréhension de ce qui se passe "sous le capot" de l'ordinateur. 
+- **Créativité :** Avec RASM, tu peux créer tes propres programmes, jeux, ou même des démos sur des systèmes qui utilisent le Z80, comme certaines vieilles consoles ou ordinateurs (comme le ZX Spectrum ou certaines machines d'arcade).
