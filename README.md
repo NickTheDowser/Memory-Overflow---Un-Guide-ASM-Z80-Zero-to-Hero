@@ -51,4 +51,4 @@ RASM est intéressant à plus d'un titre. En plus d'être un outil d'assembleur,
 ***Bulletpoints :***
 
 - **Apprentissage :** Si tu es passionné par la programmation ou le développement de jeux vidéo, comprendre comment fonctionne un assembleur comme RASM peut te donner une meilleure compréhension de ce qui se passe "sous le capot" de l'ordinateur. 
-- **Créativité :** Avec RASM, tu peux créer tes propres programmes, jeux, ou même des démos sur des systèmes qui utilisent le Z80, comme certaines vieilles consoles ou ordinateurs (comme le ZX Spectrum ou certaines machines d'arcade).
+- **Créativité :** Avec RASM, tu peux créer tes propres programmes, jeux, ou même des démos sur des systèmes qui utilisent le Z80, comme certaines vieilles consoles ou ordinateurs (comme l'Amstrad CPC, le ZX Spectrum ou certaines machines d'arcade). Dans ce guide, on va faire du CPC, mais c'est transposable tant qu'on ne fais rien de très technique (comme les accès disque ou l'exploitation de certaines puces spécialisées, comme le CRTC sur Amstrad CPC).
